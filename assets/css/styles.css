@@ -7,6 +7,10 @@ img {
 	margin-top: -40px
 }
 
+#avatar1 {
+	width: 10%;
+}
+
 .rectangle1 {
     position: relative;
     height: 50px;
