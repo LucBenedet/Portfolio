@@ -28,3 +28,9 @@ position: relative;
 display: block;
 }
 
+h1 {
+    font-family: 'Merienda', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 90px;
+    }
