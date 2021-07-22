@@ -65,12 +65,14 @@ h1 {
     .Instagram
     {
     width: 40px; 
-   
+    margin-left: auto;
+    margin-right: auto;
     }
     
     .Deviantart
     {
     width: 30px; 
-    
+    margin-left: auto;
+    margin-right: auto;
     }
     
