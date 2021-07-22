@@ -55,11 +55,24 @@ h1 {
     margin-right: 41.72%;
     }
 
-#conteneur
-{
-    width: 80px;
-    display: flex;
-    justify-content: space-between;
-    margin-left: auto;
-    margin-right: auto;
-}
+    .Twitter
+    {
+        width :50px; 
+         margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .Instagram
+    {
+        width :50px; 
+     margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .Deviantart
+    {
+        width :50px; 
+     margin-left: auto;
+        margin-right: auto;
+    }
+    
