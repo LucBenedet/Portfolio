@@ -55,21 +55,22 @@ h1 {
     margin-right: 41.72%;
     }
 
-    .Twitter
-    {
-    width: 35px; 
-    margin-left: 60%;
-    }
-    
-    .Instagram
-    {
-    width: 35px; 
-    margin-left: 65%;
-    }
-    
-    .Deviantart
-    {
-    width: 35px; 
-    margin-left: 70%;
-    }
-    
+.Twitter
+{
+width :35px; 
+margin-left: 47.5%;
+}
+
+.Instagram
+{
+width :35px; 
+margin-left: 49.5%;
+margin-top: -32px;
+}
+
+.Deviantart
+{
+width :35px; 
+margin-left: 51.5%;
+margin-top: -30px;
+}
