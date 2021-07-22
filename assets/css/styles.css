@@ -54,3 +54,11 @@ h1 {
     width: 3%;
     margin-right: 41.72%;
     }
+
+    #conteneur
+{
+    width :80px;
+    display: flex;
+    justify-content: space-between;
+   
+}
