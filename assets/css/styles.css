@@ -57,7 +57,7 @@ h1 {
 
 #conteneur
 {
-    width:80px;
+    width: 80px;
     display: flex;
     justify-content: space-between;
     margin-left: auto;
